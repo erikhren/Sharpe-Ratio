@@ -1,5 +1,5 @@
 # Sharpe-Ratio
-**Purpose:**<br>
+**Description:**<br>
 Sharpe-Ratio calculation and explanation for Microsoft and Amazon stocks while using the S&P 500 as a benchmark.
 
 **Sharp-Ratio??**<br>
